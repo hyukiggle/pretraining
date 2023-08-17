@@ -1,0 +1,3 @@
+# pretraining for medical image segmentation
+
+Following SwinUNETR and SwinUnet...
